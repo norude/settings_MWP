@@ -1,7 +1,5 @@
-# Tauri + Solid + Typescript
-
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+# settings_MWP
+(settings microsoft would'nt provide)
+this is a simple desktop application that was made using tauri + solid that makes it simple to tweak registry keys.
+Currently needs more keys but in theory it can be scaled up to any height.
+No maintanance will be performed.
